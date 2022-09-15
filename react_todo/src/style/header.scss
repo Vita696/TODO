@@ -1,0 +1,25 @@
+.header {
+    min-height: 10vh;
+    display: flex;
+
+    align-items: center;
+    background-color: #eee;
+
+    .header-logo {
+        text-decoration: underline;
+        margin: 0 10px;
+    }
+
+    .header-list {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        .header-list__item {
+            margin: 0 10px;
+            cursor: pointer;
+        }
+    }
+}
