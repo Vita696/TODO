@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# ToDo
+
+Проект создание приложения для записи списка дел на ReactJs 
+
+## Стек технологий
+
+- HTML5
+- SCSS
+- Методология БЭМ
+- JavaScript
+- React
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
